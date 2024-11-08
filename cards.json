@@ -1,0 +1,12 @@
+[
+  {
+    "account_id": 1,
+    "number": 111111,
+    "pin": 1111
+  },
+  {
+    "account_id": 2,
+    "number": 222222,
+    "pin": 2222
+  }
+]

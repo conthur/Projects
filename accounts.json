@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "owner": "Sam Adams",
+    "Balance": 500
+  },
+  {
+    "id": 2,
+    "owner": "Connor Thurston",
+    "Balance": 1000
+  }
+]
